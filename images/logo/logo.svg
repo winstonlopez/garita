@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="59.445869mm"
+   height="31.294907mm"
+   viewBox="0 0 59.445869 31.294907"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.3855017"
+     inkscape:cx="112.33865"
+     inkscape:cy="59.047423"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient705">
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:1;"
+         offset="0"
+         id="stop701" />
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:0;"
+         offset="1"
+         id="stop703" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient705"
+       id="linearGradient707"
+       x1="10.562696"
+       y1="15.082547"
+       x2="43.085972"
+       y2="13.756069"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     style="fill:url(#linearGradient707);stroke-width:0.258045;fill-opacity:1"
+     id="rect429"
+     width="59.39674"
+     height="31.196796"
+     x="0.049128804"
+     y="0.049128808"
+     rx="2.4268086"
+     ry="0" />
+  <g
+     id="layer1"
+     transform="translate(-47.218766,-59.784163)"
+     style="fill:#ff0000">
+    <path
+       id="path63"
+       style="fill:#ff0000;stroke-width:0.0797825"
+       d="M 62.295812,59.784163 A 15.077031,15.077031 0 0 0 47.218766,74.861209 15.077031,15.077031 0 0 0 62.295812,89.938255 15.077031,15.077031 0 0 0 74.370723,83.875555 13.214288,11.555816 0 0 1 66.040609,86.470514 13.214288,11.555816 0 0 1 52.826456,74.914658 13.214288,11.555816 0 0 1 66.040609,63.358954 13.214288,11.555816 0 0 1 74.544625,66.070472 15.077031,15.077031 0 0 0 62.295812,59.784163 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.94332px;font-family:'Mongolian Baiti';-inkscape-font-specification:'Mongolian Baiti';fill:#ff0000;stroke-width:0.745275"
+       x="56.131382"
+       y="82.384613"
+       id="text610"><tspan
+         id="tspan608"
+         x="56.131382"
+         y="82.384613"
+         style="fill:#ff0000;stroke-width:0.745275">armela's Store </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Mongolian Baiti';-inkscape-font-specification:'Mongolian Baiti';fill:#ff0000;stroke-width:0.264583"
+       x="92.981209"
+       y="91.079063"
+       id="text716"><tspan
+         id="tspan714"
+         x="92.981209"
+         y="91.079063"
+         style="stroke-width:0.264583;fill:#ff0000">  </tspan></text>
+  </g>
+</svg>

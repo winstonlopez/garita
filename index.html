@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store Management</title>
+    <meta name="author" content="Winston Lopez">
+    <script src="./main.js" defer></script>   <!--add defer so javascript waits for whole document to load first -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div id="topCage">
+
+    <nav id="container">
+        <span id="logo"><a href="index.html"><img src="images/logo/logo.svg"></a></span>
+            <div class="menu" id="mainMenu">
+                <span onclick="listTable(peopleList)">Credits</span>
+                <span>Products</span>
+                <span id="addPerson">Add People</span>
+                <span onclick="hideNav()">Add Item</span>
+                <span>Inventory</span>
+
+            </div>
+
+    </nav>
+</div>
+<!--Content half-->
+<div id="mainContainer">
+    
+    <div id="leftContainer">    <!--for search bar and nav-->
+        <div id="searchBar">
+            <div id="mid">></div>
+            <input type="search" id="searchInput">
+  
+            <button id="searchButton"><strong>Search</strong></button>
+        </div>
+        <div id="tableList"></div>
+    </div>
+    <div id="rightContainer" class="contents">   <!--For detailed contents-->
+        <center><h1>Store Overview</h1></center>
+        <center><h2>Please Select  Category</h2></center>
+
+    </div>
+</div>
+
+</body>
+</html>
