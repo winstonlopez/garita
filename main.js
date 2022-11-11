@@ -45,6 +45,10 @@ class Item{
 }
 
 function AddPeople(){
+    let name = prompt('Enter Name: ', 'name');
+    if(name == null) return;
+    let surname = prompt(`Enter Surname: ` `Surname`);
+    if(surname == null)return;
     peopleList.push(new People(prompt('Enter Name', `name`), prompt(`Enter Surname`, `Surname`)));
     listTable(peopleList);
 }
