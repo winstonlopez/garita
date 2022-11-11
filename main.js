@@ -47,9 +47,9 @@ class Item{
 function AddPeople(){
     let name = prompt('Enter Name: ', 'name');
     if(name == null) return;
-    let surname = prompt(`Enter Surname: ` `Surname`);
+    let surname = prompt(`Enter Surname: `, `Surname`);
     if(surname == null)return;
-    peopleList.push(new People(prompt('Enter Name', `name`), prompt(`Enter Surname`, `Surname`)));
+    peopleList.push(new People(name, surname));
     listTable(peopleList);
 }
 
@@ -78,7 +78,13 @@ function showSearch(){
 
 mid.addEventListener("click", showSearch)
 
-
+smallMenu.addEventListener("click", function(){
+    if(retractible.style.height == "280px"){
+        retractible.style.height = "0px";
+        return;
+    }
+    retractible.style.height = "280px";
+})
 
 addPerson.addEventListener('click', AddPeople);
 
