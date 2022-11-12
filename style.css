@@ -388,7 +388,7 @@ td, td:hover {
 }
 
 #retractible {
-    height: 280px;
+    height: 0px;
     transition: .5s;
     width: 100%;
     display: flex;
