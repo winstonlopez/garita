@@ -204,6 +204,7 @@ function hideNav(){
 
 
 function buttonclick(){
+    this.preventDefault();
     let x;
     if(searchInput.value == ''  || searchInput.value == undefined || !searchInput.value){return} else x = searchInput.value.toLowerCase();
     let result = peopleList.filter(item => item.name.toLowerCase().includes(x));  //filter returns an array of matching items
@@ -217,6 +218,7 @@ function buttonclick(){
         };
         console.log(result);
     listTable(result);
+    
 
 };
 searchButton.addEventListener('click', buttonclick);
