@@ -86,7 +86,7 @@ smallMenu.addEventListener("click", function(){
     retractible.style.height = "280px";
 })
 
-addPerson.addEventListener('click', AddPeople);
+
 
 
 
